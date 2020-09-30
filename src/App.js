@@ -5,7 +5,7 @@ import Addform from './Addform';
 class App extends React.Component {
   state={
     todos: [
-      { id:1, content:"buy milk" },
+      { id:1, content:"buy anything" },
       { id:2, content:"buy water" }
     ]
   }
